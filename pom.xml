@@ -174,9 +174,9 @@
 	<profiles>
 		<profile>
 			<!-- 生产环境 -->
-			<id>prd</id>
+			<id>prod</id>
 			<properties>
-				<profiles.active>prd</profiles.active>
+				<profiles.active>prod</profiles.active>
 			</properties>
 		</profile>
 		<profile>
