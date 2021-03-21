@@ -17,3 +17,7 @@ hs_err_pid*
 
 **/*.iml
 
+logs.*/
+
+**/application-local.properties
+
